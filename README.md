@@ -35,7 +35,7 @@ Se você quiser ver e testar a API manualmente diretamente pelo seu navegador, v
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Vladimir-Macedo/cypress-servrest-automation.git](https://github.com/Vladimir-Macedo/cypress-servrest-automation.git)
+   git clone https://github.com/Vladimir-Macedo/cypress-servrest-automation.git
 
 2. **Instale as dependências:**
 
