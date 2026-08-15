@@ -1,3 +1,6 @@
+
+![Cypress API Tests](https://github.com/Vladimir-Macedo/cypress-servrest-automation/actions/workflows/api-tests.yml/badge.svg)
+
 # Automação de Testes de API - ServeRest 
 ---
 
