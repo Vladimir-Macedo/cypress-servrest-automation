@@ -37,9 +37,9 @@ Se você quiser ver e testar a API manualmente diretamente pelo seu navegador, v
    ```Bash
    npm install
 
-3.**Execute os testes em modo Headless:**
+3. **Execute os testes em modo Headless:**
    
-  ```Bash
+   ```Bash
    npx cypress run
 
 ---
