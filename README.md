@@ -1,5 +1,5 @@
 
-![Cypress API Tests](https://github.com/Vladimir-Macedo/cypress-servrest-automation/actions/workflows/api-tests.yml/badge.svg)
+![Cypress API Tests](https://github.com/Vladimir-Macedo/cypress-servrest-automation/actions/workflows/cypress-servrest-automation.yml/badge.svg)
 
 # Automação de Testes de API - ServeRest 
 ---
@@ -35,7 +35,7 @@ Se você quiser ver e testar a API manualmente diretamente pelo seu navegador, v
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/Vladimir-Macedo/cypress-api-automation.git](https://github.com/Vladimir-Macedo/cypress-api-automation.git)
+   git clone [https://github.com/Vladimir-Macedo/cypress-servrest-automation.git](https://github.com/Vladimir-Macedo/cypress-servrest-automation.git)
 
 2. **Instale as dependências:**
 
