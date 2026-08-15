@@ -1,6 +1,8 @@
-# Automação de Testes de API - ServeRest
+# Automação de Testes de API - ServeRest 
+---
 
-Este projeto contém a suíte de testes automatizados de API para a plataforma [ServeRest](https://serverest.dev/), focada em validar autenticação, contratos JSON, fluxos CRUD e regras de negócio.
+ Este projeto contém a suíte de testes automatizados de API para a plataforma [ServeRest](https://serverest.dev/), focada em validar autenticação, contratos JSON,  fluxos CRUD e regras de negócio.
+ 
 ---
 
 Se você quiser ver e testar a API manualmente diretamente pelo seu navegador, você pode acessar a documentação interativa oficial do ServeRest:
